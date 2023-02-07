@@ -1,5 +1,10 @@
-[![MasterHead](https://tenor.com/bDGdt.gif)](https://www.linkedin.com/in/vasu007)
 
+
+
+
+
+
+[![MasterHead](https://i.imgur.com/O3Bxs16.gif)](https://www.linkedin.com/in/vasu007)
 <h1 align="center">Hi 👋, I'm Vasu Patel</h1>
 <h3 align="center">Motivated, enthusiastic as well as critical thinker looking to expand knowledge in the field of software development and other future technologies.</h3>
 
