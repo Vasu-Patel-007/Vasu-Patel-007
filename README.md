@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.imgur.com/O3Bxs16.gif)](https://www.linkedin.com/in/vasu007) <!--- Intro picture -->
+<!--- [![MasterHead](https://i.imgur.com/O3Bxs16.gif)](https://www.linkedin.com/in/vasu007) --> <!--- Intro picture -->
 
 <!--- viewer counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu-patel-007&label=Profile%20views&color=0e75b6&style=flat" alt="vasu-patel-007" /> </p>
