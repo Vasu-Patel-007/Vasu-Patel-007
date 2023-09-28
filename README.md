@@ -17,7 +17,6 @@
 
  
   
-- 🔭 I’m currently working on **WebXR for Public Engagement**
 
 - 📫 How to reach me **patelvasu711@gmail.com**
 
