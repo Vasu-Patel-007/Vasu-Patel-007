@@ -9,7 +9,7 @@
 <h3 align="center">Motivated, enthusiastic as well as critical thinker looking to expand knowledge in the field of web development, cloud computing, machine learning, and other future technologies.</h3>
 
 <!--- programmer gif-->
-<img alt="Coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> 
+<!-- <img alt="Coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">  -->
 
 <!--- achievments -->
 <p> &nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -85,11 +85,11 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!--- Lenguage used-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu-patel-007&show_icons=true&locale=en&layout=compact" alt="vasu-patel-007" /></p>
+- Lenguage used
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu-patel-007&show_icons=true&locale=en&layout=compact" alt="vasu-patel-007" /></p> -->
 
 <!--- github stats-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu-patel-007&show_icons=true&locale=en" alt="vasu-patel-007" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu-patel-007&show_icons=true&locale=en" alt="vasu-patel-007" /></p> -->
 
 <!--- activity, streak counter-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-patel-007&" alt="vasu-patel-007" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-patel-007&" alt="vasu-patel-007" /></p> -->
