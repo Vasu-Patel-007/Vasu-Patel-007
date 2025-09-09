@@ -85,7 +85,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- Lenguage used
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu-patel-007&show_icons=true&locale=en&layout=compact" alt="vasu-patel-007" /></p> -->
 
 <!--- github stats-->
